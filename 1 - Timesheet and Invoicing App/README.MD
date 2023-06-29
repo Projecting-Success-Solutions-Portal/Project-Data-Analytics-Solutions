@@ -1,2 +1,0 @@
-# TimeSheet & Invoicing App
-
