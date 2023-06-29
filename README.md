@@ -1,4 +1,4 @@
-# Project Data Analytic Solutions
+# Project Data Analytics Solutions
 
 Welcome to the Project Data Analytic Solutions repository! 
 
