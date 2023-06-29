@@ -1,6 +1,8 @@
 # Project Data Analytic Solutions
 
-Welcome to the Project Data Analytic Solutions repository! This repository houses a comprehensive collection of data analytics solutions for a wide range of industries and applications. Whether you're a data scientist, analyst, or business professional, this repository is designed to assist you in leveraging data to derive valuable insights and make informed decisions.
+Welcome to the Project Data Analytic Solutions repository! 
+
+This repository houses a comprehensive collection of data analytics solutions for a wide range of industries and applications. Whether you're a data scientist, analyst, or business professional, this repository is designed to assist you in leveraging data to derive valuable insights and make informed decisions.
 
 **Key Features:**
 
