@@ -31,7 +31,7 @@ Insights – The solution is mostly complete as is given the data provided. Pote
 **To watch the Demonstration of the application please click the image below:**
 <br /><br />
 <div align="center">
-      <a href="https://www.youtube.com/watch?vW4LZ9NXyBvo">
+     <a href="https://www.youtube.com/watch?v=W4LZ9NXyBvo">
      <img 
       src="https://github-production-user-asset-6210df.s3.amazonaws.com/30728931/250503083-dbf61f4d-1725-40e1-af77-a41d0f13713c.png" 
       alt="Health & Safety Regulatory Compliance" 
