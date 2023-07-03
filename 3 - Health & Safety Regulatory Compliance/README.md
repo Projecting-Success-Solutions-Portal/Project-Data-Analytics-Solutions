@@ -1,7 +1,6 @@
 # Health & Safety Regulatory Compliance
 
-<img width="1000" alt="3 - Compliance Overview thumbnail" src="https://github.com/Projecting-Success-Solutions-Portal/Project-Data-Analytics-Solutions/assets/30728931/f25c8f60-71ff-4d2b-8f60-f63dc93049cd">
-
+<img width="1000" alt="3 - Compliance Overview thumbnail" src="https://github.com/Projecting-Success-Solutions-Portal/Project-Data-Analytics-Solutions/assets/30728931/14a2854f-05f7-41f7-835d-6a98774981e4">
 <br />
 
 **Solution Description**
@@ -31,7 +30,7 @@ Insights – The solution is mostly complete as is given the data provided. Pote
 **To watch the Demonstration of the application please click the image below:**
 <br /><br />
 <div align="center">
-     <a href="https://www.youtube.com/watch?v=W4LZ9NXyBvo">
+     <a href="https://www.youtube.com/watch?v=9uQBoWlP2B0">
      <img 
       src="https://github-production-user-asset-6210df.s3.amazonaws.com/30728931/250503083-dbf61f4d-1725-40e1-af77-a41d0f13713c.png" 
       alt="Health & Safety Regulatory Compliance" 
